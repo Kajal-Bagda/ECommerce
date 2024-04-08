@@ -1,0 +1,17 @@
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CopyComplete
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+D:\Asp.Net\MVC\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
